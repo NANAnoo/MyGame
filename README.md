@@ -2,7 +2,11 @@
 interacting N-body simulator
 交互式N体模拟游戏
 
+start:
+python GravitySimulator.py
+
 need: numpy , pygame
+需要: numpy , pygame 
 
 HELP：
 操作指南：
